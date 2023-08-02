@@ -6,7 +6,7 @@ O primeiro trabalho consistiu na implementação de um módulo de lista encadead
 
 O segundo trabalho consistiu na implementação de módulos de árvore binária e de árvore binária de busca
 
-O terceiro trabalho consistiu na implementação de um módulo de hashtable
+O terceiro trabalho consistiu na implementação de um módulo de hashtable (faltando no repositório)
 
 O quarto trabalho consistiu na implementação do algoritmo de Huffman
 
