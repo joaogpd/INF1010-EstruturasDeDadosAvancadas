@@ -1,6 +1,6 @@
 # INF1010-EstruturasDeDadosAvancadas
 
-Trabalhos da disciplina INF1010, Estruturas de Dados Avançadas, da PUC-RJ
+Trabalhos da disciplina INF1010, Estruturas de Dados Avançadas, da PUC-RJ, ministrada pela Professora Greis Silva
 
 O primeiro trabalho consistiu na implementação de um módulo de lista encadeada
 
